@@ -4,3 +4,7 @@ class Person{
   var lastName = "";
 
 }
+
+class Employee extends Person{
+  var String employeeId = "";
+}
